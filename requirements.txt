@@ -1,0 +1,6 @@
+dash==2.11.0
+plotly==5.20.0
+pandas==2.1.1
+numpy==1.26.2
+yfinance==0.2.41
+nest_asyncio==1.5.8
